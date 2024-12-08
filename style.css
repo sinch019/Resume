@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  } 
+  header {
+    background-color: #333;
+    color: rgb(195, 134, 134);
+    padding: 1em 0;
+    text-align: center;
+  }
+ nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  } 
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  } 
+  footer {
+    background-color: #333 ;
+    color: rgba(159, 58, 102, 0.103);
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  .bio{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    color: black;
+    padding: 50px;
+  }
+  .biob{
+    background-color: beige;
+  }
+  .resu{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    color: black;
+    padding: 50px;
+  }
+  #intro{
+    font-size: 30px;
+  }
